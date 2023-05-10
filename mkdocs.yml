@@ -1,0 +1,7 @@
+site_name: 'mats-test Docs'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
